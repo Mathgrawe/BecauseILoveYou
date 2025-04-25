@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&display=swap'); /* importa a fonte */ :contentReference[oaicite:0]{index=0}
+
+.font-cursive {
+    font-family: 'Dancing Script', cursive; /* fonte + fallback */ :contentReference[oaicite:1]{index=1}
+  }
